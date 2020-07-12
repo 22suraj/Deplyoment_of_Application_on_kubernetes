@@ -1,1 +1,0 @@
-# Deplyoment_of_Application_on_kubernetes
