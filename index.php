@@ -3,7 +3,7 @@
 <?php
 
 print"Hello, Welcome to my new website...!!!";
-print`ifconfig`
+print`ifconfig
 
 ?>
 </body>
